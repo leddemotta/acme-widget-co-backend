@@ -39,7 +39,7 @@ Shipping charges are calculated based on the order's subtotal after promotional 
 ### Start the API Server
 Start the local PHP server for the React frontend:
 ```bash
-php -S localhost:8000 index.php
+php -S localhost:7575 index.php
 ```
 
 ---
