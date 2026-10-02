@@ -3,7 +3,7 @@
 [![Tests](https://img.shields.io/badge/Tests-100%25%20Passing-brightgreen.svg)]()
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Version](https://img.shields.io/badge/Version-1.1.4-orange.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.1.7-orange.svg)]()
 
 A clean, modern PHP application implementing the **Acme Widget Co** shopping basket sales system. It handles product catalog management, promotional discount rules, and tiered delivery fee calculations with exact decimal precision.
 
@@ -83,8 +83,6 @@ acme-widget-co-backend/
 ├── basket.php     # Core domain logic (Product, Catalog, Delivery, Offers, Basket)
 ├── test.php       # Automated test suite
 ├── cli.php        # CLI entry point
-├── index.php      # Local HTTP server router
-├── public/
-│   └── index.php  # Public web entry point
+├── index.php      # Local HTTP server router & REST API
 └── README.md      # Application overview
 ```
