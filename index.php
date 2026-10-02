@@ -37,7 +37,7 @@ try {
 
         echo json_encode([
             'status' => 'success',
-            'version' => '1.1.7',
+            'version' => '1.1.8',
             'products' => $products,
             'deliveryRules' => [
                 ['description' => 'Orders under $50.00', 'cost' => 4.95, 'threshold' => 50.00],
