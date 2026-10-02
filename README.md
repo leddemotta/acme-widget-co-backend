@@ -3,7 +3,7 @@
 [![Tests](https://img.shields.io/badge/Tests-100%25%20Passing-brightgreen.svg)]()
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Version](https://img.shields.io/badge/Version-1.1.8-orange.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.1.9-orange.svg)]()
 
 A clean, modern PHP application implementing the **Acme Widget Co** shopping basket sales system. It handles product catalog management, promotional discount rules, and tiered delivery fee calculations with exact decimal precision.
 
